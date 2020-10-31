@@ -4,4 +4,4 @@
 |--|--|
 | CPU | Ryzen3 1200 |
 | RAM | 16GB |
-|GPU|Radeon™ RX 570|
+|GPU|XFX Radeon™ RX 570|
